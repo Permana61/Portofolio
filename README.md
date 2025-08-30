@@ -9,7 +9,7 @@ Passionate about building strong online communities and driving adoption in the 
 - 📍 Location: Sumedang, West Java, Indonesia  
 - 📧 Email: [permanahaxor223@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/ganda-permana/]
-- 📄 CV: [CV-GandaPermanaWadi.pdf]
+- 📄 CV: [CV](./CV-GandaPermanaWadi.pdf)
 
 ---
 
