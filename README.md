@@ -54,7 +54,7 @@ Passionate about building strong online communities and driving adoption in the 
 
 ---
 
-### 🔹 [Content Samples] (./content-samples)
+### 🔹 [Content Samples](./content-samples)
 
 📌 Examples of social media content, copywriting, and articles.
 
